@@ -1,9 +1,8 @@
-# Fireworks-p5.js
-
-This is a JS project made with p5.js framework.
+# p5.jsProjects
+These are my projects made with p5.js.
 <br>
-You can pretty much understand what files do from their names.
+You can take a look at them or fix and add some features.
 <br>
-So I am not going to explain them one by one.
+I hope you'll find them helpful or just enjoy them.
 
 **Hope you like it.**
