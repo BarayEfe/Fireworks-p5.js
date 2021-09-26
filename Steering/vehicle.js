@@ -1,5 +1,5 @@
-var relativeBigness = 10;
-var mutationChance = 0.1;
+var relativeBigness = 2;
+var mutationChance = 0.4;
 var reverseChance = 0.05;
 var simulationSpeed = 1;
 var distanceToBoundary = 0;
@@ -67,7 +67,7 @@ function Vehicle(x, y, parentDNA) {
   }
 
   this.behaviors = function(good, bad) {
-    var steerG = this.eat(good, 0.2, this.dna[2]);
+    var steerG = this.eat(good, 0.1, this.dna[2]);
     var steerB = this.eat(bad, -0.75, this.dna[3]);
 
     steerG.mult(this.dna[0]);
