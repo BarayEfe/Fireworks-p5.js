@@ -9,12 +9,9 @@ I hope you'll find them helpful or just enjoy them.
 
 The links to my projects are below
 
-[Verlet Integration](/VerletIntegration/index.html)
-
+<br>[Verlet Integration](/VerletIntegration/index.html)<br>
 [Bubble Sort](/BubbleSort/index.html)
-
 [Perlin Flow Field](/perlinFlowField/index.html)
-
-[Simple Pendulum](/SimplePendulum/index.html) 
+[Simple Pendulum](/SimplePendulum/index.html)
 [Steering Generational Algorithm](/Steering/index.html)
 [Fractal Tree](/FractalTree/index.html)
