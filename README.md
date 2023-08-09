@@ -7,7 +7,7 @@ I hope you'll find them helpful or just enjoy them.
 
 **Hope you like it.**
 
-<br>The links to my projects are below:<br>
+<br>The links to my projects are below: <br>
 <br>[Verlet Integration](/VerletIntegration/index.html)<br>
 <br>[Bubble Sort](/BubbleSort/index.html)<br>
 <br>[Perlin Flow Field](/perlinFlowField/index.html)<br>
