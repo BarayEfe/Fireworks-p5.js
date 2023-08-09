@@ -10,6 +10,7 @@ I hope you'll find them helpful or just enjoy them.
 <br>
 The links to my projects are below:
 <br>
+
 [Verlet Integration](/VerletIntegration/index.html)
 <br>
 [Bubble Sort](/BubbleSort/index.html)
