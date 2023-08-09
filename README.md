@@ -7,11 +7,10 @@ I hope you'll find them helpful or just enjoy them.
 
 **Hope you like it.**
 
-The links to my projects are below
-
+<br>The links to my projects are below:<br>
 <br>[Verlet Integration](/VerletIntegration/index.html)<br>
-[Bubble Sort](/BubbleSort/index.html)
-[Perlin Flow Field](/perlinFlowField/index.html)
-[Simple Pendulum](/SimplePendulum/index.html)
-[Steering Generational Algorithm](/Steering/index.html)
-[Fractal Tree](/FractalTree/index.html)
+<br>[Bubble Sort](/BubbleSort/index.html)<br>
+<br>[Perlin Flow Field](/perlinFlowField/index.html)<br>
+<br>[Simple Pendulum](/SimplePendulum/index.html)<br>
+<br>[Steering Generational Algorithm](/Steering/index.html)<br>
+<br>[Fractal Tree](/FractalTree/index.html)<br>
