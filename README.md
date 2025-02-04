@@ -5,7 +5,7 @@ You can take a look at them or fix and add some features.
 <br>
 I hope you'll find them helpful or just enjoy them.
 <br><br>
-You can use the link <a href="https://barayefe.github.io/p5.jsProjects/" target="_blank" rel="noopener noreferrer">barayefe.github.io/p5.jsProjects/</a> to play with some of the projects without needing to set them up on your own computer.
+You can use the link <a href="https://barayefe.github.io/p5.jsProjects/" target="blank" rel="noopener noreferrer">barayefe.github.io/p5.jsProjects/</a> to play with some of the projects without needing to set them up on your own computer.
 <br><br>
 **Hope you like it.**
 
